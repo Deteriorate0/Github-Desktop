@@ -1,4 +1,4 @@
-# Github Desktop 3.03 汉化
+# Windows Github Desktop 3.03 汉化
 
 ### 介绍
 
